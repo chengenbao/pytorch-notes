@@ -1,3 +1,8 @@
+---
+layout: default
+title: PyTorch 学习资源汇总（面向系统开发者）
+---
+
 # PyTorch 学习资源汇总（面向系统开发者）
 
 > 本文档整理了面向系统开发者的 PyTorch 学习资料，侧重底层实现和系统架构。
